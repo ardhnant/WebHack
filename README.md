@@ -9,9 +9,13 @@ This repository is built for practical reference and study, focused on real-worl
 ## 📂 Structure
 
 WebHack/
+
 ├── SQL/
+
 │ ├── General info.md # Core SQL injection concepts
+
 │ ├── UNION.md # UNION-based SQL injection
+
 │ └── XML.md # SQL via XML exploitation
 
 
